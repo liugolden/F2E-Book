@@ -1,5 +1,5 @@
 ---
-description: This Book Is For People who wants to become F2E
+cription: This Book Is For People who wants to become F2E
 ---
 
 # INTRODUCTION
